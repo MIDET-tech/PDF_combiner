@@ -21,14 +21,18 @@ pip install -r requirements.txt
 2. The following window will appear on your screen.
 <img src="https://user-images.githubusercontent.com/63294970/88269390-e72ddc00-cd0e-11ea-9dce-d7de54cc0d67.jpg" width="400px">
 
+3. Type in the path of the PDF file you want to merge, or select the file from the Browse button.
+
+4. If you want to combine more than two PDF files, press the AddFile button.
+
+5. When finished specifying the PDFs you want to merge, press the Submit button.
+<img src="https://user-images.githubusercontent.com/63294970/88271053-9075d180-cd11-11ea-9481-bed601c9641e.jpg" width="400px">
+
+   The merged PDF file will be output successfully as combined_file.pdf.
+<img src="https://user-images.githubusercontent.com/63294970/88271290-e480b600-cd11-11ea-957e-7e5c526d80e0.jpg" width="400px">  
+
 # Note
-This Robotic Process Automation program is not related to [Leeways Inc.](https://www.leeways.co.jp/) at all.
-
-If you have any questions, please　contact me at the email address written in Author section.
-
-Please note that this program may not work due to changes in specifications.
-
-Also, I am not responsible for any damage or disadvantage caused by the use of this program.
+Activate .exe file if you don't have Anaconda installed in your PC.
 
 # Author
 * Yusuke Ochiai
