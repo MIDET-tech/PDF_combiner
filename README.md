@@ -19,7 +19,7 @@ pip install -r requirements.txt
 1. Download the .py file or .jpynb file and run it under the Anaconda environment.
 
 2. The following window will appear on your screen.
-<img src="https://user-images.githubusercontent.com/63294970/88269390-e72ddc00-cd0e-11ea-9dce-d7de54cc0d67.jpg" width="300px">
+<img src="https://user-images.githubusercontent.com/63294970/88269390-e72ddc00-cd0e-11ea-9dce-d7de54cc0d67.jpg" width="400px">
 
 # Note
 This Robotic Process Automation program is not related to [Leeways Inc.](https://www.leeways.co.jp/) at all.
