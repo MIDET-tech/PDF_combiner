@@ -41,4 +41,5 @@ Activate .exe file if you don't have Anaconda installed in your PC.
 
 # Licence
 Copyright (c) 2020 Yusuke Ochiai
+
 Released under the MIT license
