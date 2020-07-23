@@ -39,7 +39,7 @@ Activate .exe file if you don't have Anaconda installed in your PC.
 * Yusuke Ochiai
 * Postgraduate student at Univ. of Tsukuba
 
-# Licence
+# License
 Copyright (c) 2020 Yusuke Ochiai
 
 Released under the MIT license
