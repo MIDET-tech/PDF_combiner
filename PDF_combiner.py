@@ -3,23 +3,20 @@
 
 # In[ ]:
 
-
 import PySimpleGUI as sg
 import PyPDF2
-import os
 import warnings
 
 def submit_func():
     merger = PyPDF2.PdfFileMerger()
     for i in range(number):
         merger.append(values[i])
-    merger.write("combined_file.pdf".format(user_name))
+    merger.write("combined_file.pdf")
     merger.close()
     
     sg.popup("The combined PDF file has been output successfully as [combined_file.pdf]")
 
 warnings.simplefilter("ignore")
-user_name = os.getlogin()
 
 #Number of files
 number = 2
