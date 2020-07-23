@@ -29,6 +29,7 @@ pip install -r requirements.txt
 <img src="https://user-images.githubusercontent.com/63294970/88271053-9075d180-cd11-11ea-9481-bed601c9641e.jpg" width="400px">
 
    The merged PDF file will be output successfully as combined_file.pdf.
+   
 <img src="https://user-images.githubusercontent.com/63294970/88271290-e480b600-cd11-11ea-957e-7e5c526d80e0.jpg" width="400px">  
 
 # Note
